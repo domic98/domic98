@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Domagoj Petrec</h1>
-<hr />
+
 
 <h3 align="center">👩‍💻 About Me :</h3>
-<hr />
+
 
 <h3 align="center">Full stack web developer from Croatia, dedicated to exploring new tech and ready for future challenges ✨</h3>
 
 <br clear="both">
 
-<h3 align="center">🔥 My Stats :</h3>
 <hr />
+<h3 align="center">🔥 My Stats :</h3>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=domic98&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
@@ -20,11 +21,12 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=domic98.domic98&left_text=PROFILE%20VIEWS" />
+   <img src="https://komarev.com/ghpvc/?username=domic98&label=Profile%20views&color=e34c26&style=for-the-badge" alt="domic98" />
 </div>
 
-<h3 align="center">🛠 Language and tools :</h3>
 <hr />
+<h3 align="center">🛠 Language and tools :</h3>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
@@ -62,8 +64,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
-<h3 align="center">📚 Education :</h3>
 <hr />
+<h3 align="center">📚 Education :</h3>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy badge" />
@@ -71,8 +74,9 @@
   <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp badge" />
 </div>
 
-<h3 align="center">💻 Connect with me on the following platforms :</h3>
 <hr />
+<h3 align="center">💻 Connect with me on the following platforms :</h3>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank">
@@ -85,10 +89,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="https://dpetrec-cv.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="matrix logo" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
 
+<hr />
+
 <div align="center">
-  <img src="https://github.com/domic98/domic98/raw/main/thiss-is-fine-fire.gif" alt="GIF" width="250"/>
+  <img src="https://github.com/domic98/domic98/blob/main/this-is-fine-fire.gif" alt="GIF" width="250"/>
 </div>
