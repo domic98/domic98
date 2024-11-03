@@ -69,9 +69,11 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy badge" height="40" />
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera badge" height="40" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp badge" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/udemy/udemy-original.svg" height="40" alt="Udemy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coursera/coursera-original.svg" height="40" alt="Coursera logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" height="40" alt="freeCodeCamp logo" />
 </div>
 
 <hr />
@@ -80,27 +82,30 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
+  <img width="12" />
   <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
   </a>
+  <img width="12" />
   <a href="https://www.instagram.com/d.5rec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram logo" />
   </a>
+  <img width="12" />
   <a href="https://dpetrec-cv.com/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" />
+    <img src="https://cdn.simpleicons.org/aboutdotme/000000" height="40" alt="Portfolio" />
   </a>
 </div>
 
 
 
 <hr />
-<h3 align="center">☕ Buy Me a Coffee</h3>
+<h3 align="center">💖 Support Me</h3>
 
 <div align="center">
   <a href="https://www.paypal.me/ddomic98" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-0079C1?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy Me a Coffee"/>
   </a>
 </div>
 
