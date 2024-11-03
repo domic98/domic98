@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=domic98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+<br />
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=domic98&label=Profile%20views&color=e34c26&style=for-the-badge" alt="domic98" />
 </div>
@@ -81,19 +82,19 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank">
+  <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank">
+  <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
-  <a href="https://www.instagram.com/d.5rec/" target="_blank">
+  <a href="https://www.instagram.com/d.5rec/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
   </a>
   <img width="12" />
-  <a href="https://dpetrec-cv.com/" target="_blank">
+  <a href="https://dpetrec-cv.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/aboutdotme/000000" height="40" alt="Portfolio logo" />
   </a>
 </div>
