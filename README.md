@@ -69,11 +69,11 @@
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/udemy/udemy-original.svg" height="40" alt="Udemy logo" />
+  <img src="https://cdn.simpleicons.org/udemy/A435F0" height="40" alt="Udemy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coursera/coursera-original.svg" height="40" alt="Coursera logo" />
+  <img src="https://cdn.simpleicons.org/coursera/0056D2" height="40" alt="Coursera logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freecodecamp/freecodecamp-original.svg" height="40" alt="freeCodeCamp logo" />
+  <img src="https://cdn.simpleicons.org/freecodecamp/27273D" height="40" alt="freeCodeCamp logo" />
 </div>
 
 <hr />
@@ -82,19 +82,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/d.5rec/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram logo" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
   </a>
   <img width="12" />
   <a href="https://dpetrec-cv.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/aboutdotme/000000" height="40" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/aboutdotme/000000" height="40" alt="Portfolio logo" />
   </a>
 </div>
 
