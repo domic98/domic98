@@ -90,7 +90,7 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
-  <a href="https://www.instagram.com/d.5rec/" target="_blank" style="text-decoration: none !important;">
+  <a href="https://www.instagram.com/d.5rec/" style="text-decoration: none !important;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
   </a>
   <img width="12" />
