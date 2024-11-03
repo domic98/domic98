@@ -82,19 +82,19 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/domagoj-petrec-08369b262/" target="_blank" style="text-decoration: none !important;">
     <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.facebook.com/domagoj.petrec.7/" target="_blank" style="text-decoration: none !important;">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
-  <a href="https://www.instagram.com/d.5rec/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/d.5rec/" target="_blank" style="text-decoration: none !important;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
   </a>
   <img width="12" />
-  <a href="https://dpetrec-cv.com/" target="_blank" style="text-decoration: none;">
+  <a href="https://dpetrec-cv.com/" target="_blank" style="text-decoration: none !important;">
     <img src="https://cdn.simpleicons.org/aboutdotme/000000" height="40" alt="Portfolio logo" />
   </a>
 </div>
