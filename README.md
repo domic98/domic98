@@ -101,14 +101,6 @@
 
 
 
-<hr />
-<h3 align="center">💖 Support Me</h3>
-
-<div align="center">
-  <a href="https://www.paypal.me/ddomic98" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-0079C1?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy Me a Coffee"/>
-  </a>
-</div>
 
 
 <hr />
