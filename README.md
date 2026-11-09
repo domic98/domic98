@@ -99,9 +99,11 @@
   </a>
   <img width="12" />
 
-  <a href="https://domagojpetrec.com/">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%23FFFFFF" height="40" alt="Portfolio website" />
-  </a>
+  
+<a href="https://domagojpetrec.com/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Portfolio Website" />
+</a>
+
 </div>
 
 <hr />
